@@ -1,0 +1,41 @@
+.bgimg2 {
+	background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-blue-minimalist-streamer-smart-technology-background-material-informationinformation-technologydata-materialartificial-image_73216.jpg');
+	background-size: cover;
+	height: 200vh;
+}
+.mobilehead {
+	color:white;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: 35px;
+	padding: 25px;
+
+}
+.layoutcard2 {
+	background-color: white;
+	border-radius: 8px;
+	padding: 20px;
+	margin: 18px;
+}
+.brandsimg {
+	width: 120px;
+	height: 120px;
+}
+.branshead {
+	color:#041836;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size:30px;
+}
+.brandspara {
+	color: darkgrey;
+	font-family: 'Roboto';
+	font-size: 15px;
+}
+.first {
+	background-color: orange;
+	border:none;
+	size:100;
+	padding: 10px;
+	width: 50;
+}

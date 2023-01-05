@@ -1,0 +1,13 @@
+.bgimg {
+	background-image: url('https://img.freepik.com/premium-photo/smartphone-abstract-blue-background-with-lines-digital-world-concept-3d-rendering_120871-525.jpg?w=900');
+	background-size: cover;
+	height: 100vh;
+}
+.layoutcard {
+background-color: white;
+	height: 200px;
+	border-top-left-radius: 20px;
+	border=border-top-right-radius: 20px;
+	padding: 20px;
+	te
+}
